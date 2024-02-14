@@ -1,0 +1,15 @@
+{
+  "name": "talpa-grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "talpa-grid.js",
+  "scripts": {
+    "dev": "vite --host"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.1.1"
+  }
+}

@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+talpa-grid/node_modules
+dotcontroldonuts/node_modules
 /.pnp
 .pnp.js
 .yarn/install-state.gz
